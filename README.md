@@ -34,14 +34,16 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 ### 💻 About Me
 
-- 🎓 I'm learning and improving my skills in **web development** and **programming**.  
-- 💡 I enjoy working with front-end technologies and creative projects.  
-- 🌱 Currently exploring advanced **JavaScript** & **Python**.  
+- 🎓 I'm learning and improving my skills in **web development**, **databases**, and **programming**.  
+- 💡 I enjoy working with front-end technologies and designing creative web pages.  
+- 🧠 Comfortable with **Java, C, Python, HTML, CSS, JavaScript, and SQL**.  
+- 🌱 Currently exploring advanced **JavaScript** & **SQL Server**.  
 - ⚡ Fun fact: I love solving coding problems and experimenting with new tech!
 
 ---
