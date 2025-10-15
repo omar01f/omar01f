@@ -22,7 +22,7 @@
 
 <!-- 📊 عداد الزيارات -->
 ![Profile Views](https://komarev.com/ghpvc/?username=omaraboobyda&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/omaraboobyda&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)
+
 
 ---
 
