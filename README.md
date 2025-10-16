@@ -1,11 +1,11 @@
 <div align="center" width="100%">
 
 <!-- 👋 ترحيب متحرك -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
+<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br> -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <!-- ✨ الاسم -->
-<h2>👋 Hi there! I'm <strong>Omar Abo Obyda</strong> 👨‍💻</h2>
+<h2> <strong>Omar Abo Obyda</strong> 👨‍💻</h2>
 <p>🚀 A passionate learner and developer who loves building cool projects!</p>
 
 ---
